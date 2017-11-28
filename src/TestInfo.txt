@@ -1,0 +1,14 @@
+READ ME:  Notes for the coding test
+-----------------------------------
+
+a) Covered areas 2.1, 2.2, 2.3
+b) Each task has been set up as a separate project
+c) All implemted method have minimal test coverage to verify value (in the tests folder)
+d) Progress notes:
+
+   2.1 Balanced Brackets - project set time 8-10 min, solution time (incl tests) = 25 min, clean up and output formatting = 12-15 mins
+   2.2 Fizz Buzz - project set up (the second project) 4 min, solution time (incl. test) 20 min, clean up and output formatting = 15 mins
+   2.3 Time Angles - project set up 4 min, design time = 15 min, coding time + test cases = 20-25 min, clean up and formatting = 15 min
+
+Note: All solution has been implemented to fullfil requirements. 
+      The actual development would natureally include more comprehensive testing, validation and exception management
