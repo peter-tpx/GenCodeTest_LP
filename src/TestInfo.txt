@@ -11,4 +11,8 @@ d) Progress notes:
    2.3 Time Angles - project set up 4 min, design time = 15 min, coding time + test cases = 20-25 min, clean up and formatting = 15 min
 
 Note: All solutions have been implemented to fulfill requirements (only). 
+<<<<<<< HEAD
       The actual development would naturally include more comprehensive testing, validation and exception management
+=======
+      The actual development would natureally include more comprehensive testing, validation and exception management
+>>>>>>> 78f5671de0587a7a0388caf09205a02f26e0fe58
